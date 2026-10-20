@@ -3,9 +3,6 @@
 
 <p align="center"><a href="https://www.linkedin.com/in/samiul-alom-087124227/"><strong>LINKEDIN ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/SamiulAlom?tab=repositories"><strong>ALL PROJECTS ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml"><strong>STATS WORKFLOW ↗</strong></a></p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=SamiulAlom&amp;style=flat-square&amp;color=ab83ff&amp;label=Profile+views" alt="Profile image view counter" /></p>
-
-
 ### Turning curiosity into useful systems.
 
 I'm **Md. Samiul Alom**, a Computer Science graduate and **Adjunct Research Associate at Miyan Research Institute**, based in Dhaka, Bangladesh. My research focuses on **trustworthy AI for healthcare**: uncertainty estimation, calibration, domain generalization, explainability and federated learning. I also build practical web applications and mentor students in research and development.
