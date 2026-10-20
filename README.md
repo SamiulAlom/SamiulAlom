@@ -64,12 +64,9 @@ I'm **Md. Samiul Alom**, a Computer Science graduate and **Adjunct Research Asso
 1. **Stroke Prediction Using Ensemble Machine and Deep Learning Models** — *Biomedical Materials & Devices*, Springer Nature, 2025. **First author.** [DOI](https://doi.org/10.1007/s44174-025-00521-z)
 2. **A novel dataset of North-Eastern Indian coins for machine learning-based classification** — *Data in Brief*, Elsevier, 2026, article 112813. Co-author.
 3. **An explainable triple-layered ensemble model for early prediction of suicide risk using machine learning** — *Engineering Reports*, Wiley, 8(1), e70574. Online publication 2025; issue 2026. **First author.**
+4. **SkinNet: Explainable Lightweight CNN Model for Skin Disease Classification** — *Foundations of Computing and Decision Sciences*, 51(3), 337–376, 2026. **Third author.** [DOI](https://doi.org/10.2478/fcds-2026-0011)
 
 [View publication record on Google Scholar ↗](https://scholar.google.com/citations?user=aulykMwAAAAJ&hl=en)
-
-### 📰 Accepted / forthcoming
-
-**SkinNet: Explainable Lightweight CNN Model for Skin Disease Classification** — *Foundations of Computing and Decision Sciences*. Third author. **Accepted / forthcoming.**
 
 <details>
 <summary><strong>🔬 Four manuscripts under review</strong></summary>
