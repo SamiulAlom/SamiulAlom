@@ -64,3 +64,6 @@ for i,(x,y) in enumerate(nodes[:-1]):
 hero+=rect(695,116,70,70,'#142e44',19)+txt(712,161,'AI',26,'#80eee0',700)
 (assets/'hero.svg').write_text(svg(310,hero,'Md. Samiul Alom — AI research and useful software systems'),encoding='utf-8')
 print('Generated profile graphics from public GitHub data:',len(repos),'repositories')
+
+from design_v2 import render
+render(profile,repos,owned,langs,calendar,stamp)

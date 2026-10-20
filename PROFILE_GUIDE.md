@@ -22,3 +22,7 @@ Original vector design and layout, informed by these reference projects (no copi
 - https://github.com/vn7n24fzkq/github-profile-summary-cards — repository-generated cards.
 
 GitHub profile README documentation: https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
+
+## Redesigned profile preview
+
+The new visual theme is implemented in scripts/design_v2.py and called by the daily update script. Project graphics are original abstract illustrations. Technology icons are from Devicon (MIT), with a recoloured Django icon for dark-background contrast; see assets/icons/LICENSE.devicon. The header animates gently and respects reduced-motion preferences. The local .local/redesign-preview.html file is a design preview, not a published GitHub page.
