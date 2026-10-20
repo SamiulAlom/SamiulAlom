@@ -46,10 +46,10 @@ I'm **Md. Samiul Alom**, a Computer Science graduate and **Adjunct Research Asso
 
 ### 🛠️ Tech stack
 
-**Programming** · Python · C · C++ · JavaScript  
-**Machine learning & data** · scikit-learn · pandas · NumPy · Ensemble learning  
-**Deep learning** · PyTorch · TensorFlow · Keras · CNNs · Vision transformers  
-**Trustworthy AI** · SHAP · LIME · Grad-CAM · Calibration · Uncertainty estimation  
+**Programming** · Python · C · C++ · JavaScript<br/>
+**Machine learning & data** · scikit-learn · pandas · NumPy · Ensemble learning<br/>
+**Deep learning** · PyTorch · TensorFlow · Keras · CNNs · Vision transformers<br/>
+**Trustworthy AI** · SHAP · LIME · Grad-CAM · Calibration · Uncertainty estimation<br/>
 **Web & tools** · React · Next.js · Git · Google Colab · Jupyter Notebook
 
 <img src="./assets/stack.svg" width="100%" alt="My toolkit: Python, Jupyter, TypeScript, JavaScript, React, Django, PostgreSQL and Git" />
