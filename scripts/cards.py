@@ -99,9 +99,10 @@ def hero(d, cfg, th):
     n = len(roles)
     dur = 3.2 * n
     style = "".join(
-        f"@keyframes role{i}{{0%{{opacity:0}}{100 * i / n + 2:.2f}%{{opacity:1}}"
-        f"{100 * (i + 1) / n - 2:.2f}%{{opacity:1}}{100 * (i + 1) / n:.2f}%{{opacity:0}}100%{{opacity:0}}}}"
+        f"@keyframes role{i}{{0%,{100 * i / n:.2f}%{{opacity:0}}{100 * i / n + 1.5:.2f}%,{100 * (i + 1) / n - 3:.2f}%{{opacity:1}}"
+        f"{100 * (i + 1) / n - 1.5:.2f}%,100%{{opacity:0}}}}"
         f".role{i}{{opacity:0;animation:role{i} {dur}s linear infinite}}" for i in range(n))
+    style += "@media(prefers-reduced-motion:reduce){.role0{opacity:1!important}}"
     b = ""
     for gx in range(560, w - 20, 22):
         for gy in range(30, h - 30, 22):
