@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/Brilliancy_appointment_system">Brilliancy_appointment_system</a> <sub>(20h ago)</sub> · <a href="https://github.com/SamiulAlom/Daily_activity_track">Daily_activity_track</a> <sub>(5d ago)</sub> · <a href="https://github.com/SamiulAlom/FetalGeo">FetalGeo</a> <sub>(1mo ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/Brilliancy_appointment_system">Brilliancy_appointment_system</a> <sub>(1d ago)</sub> · <a href="https://github.com/SamiulAlom/Daily_activity_track">Daily_activity_track</a> <sub>(6d ago)</sub> · <a href="https://github.com/SamiulAlom/FetalGeo">FetalGeo</a> <sub>(1mo ago)</sub></p>
 
 ## Featured projects
 
@@ -44,7 +44,7 @@
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
-| [Ai_eng1](https://github.com/SamiulAlom/Ai_eng1) | Flask patient API with a database layer | Python | 0 | 2mo ago |
+| [Ai_eng1](https://github.com/SamiulAlom/Ai_eng1) | Flask patient API with a database layer | Python | 0 | 3mo ago |
 | [Semantic-Sentence](https://github.com/SamiulAlom/Semantic-Sentence) | 3-class Bangla semantic sentence classification, 5-fold CV | Jupyter Notebook | 0 | 5mo ago |
 | [News-Classification](https://github.com/SamiulAlom/News-Classification) | Bangla news classification with multilingual BERT | Jupyter Notebook | 0 | 5mo ago |
 | [Liver-Disease-Prediction-](https://github.com/SamiulAlom/Liver-Disease-Prediction-) | Liver disease prediction with a tuned XGBoost voting ensemble | Jupyter Notebook | 0 | 5mo ago |
@@ -124,12 +124,12 @@
 
 | When | What |
 |:--|:--|
-| 2d ago | Open-sourced [Brilliancy_appointment_system](https://github.com/SamiulAlom/Brilliancy_appointment_system) |
-| 5d ago | Open-sourced [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
-| 5d ago | Starred [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
-| 5d ago | Starred [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
+| 3d ago | Open-sourced [Brilliancy_appointment_system](https://github.com/SamiulAlom/Brilliancy_appointment_system) |
+| 6d ago | Open-sourced [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
+| 6d ago | Starred [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
+| 6d ago | Starred [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 | 1w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 | 1w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>28 Oct 2026, 06:29 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>28 Oct 2026, 18:20 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
