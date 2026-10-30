@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/Brilliancy_appointment_system">Brilliancy_appointment_system</a> <sub>(10h ago)</sub> · <a href="https://github.com/SamiulAlom/Daily_activity_track">Daily_activity_track</a> <sub>(1w ago)</sub> · <a href="https://github.com/SamiulAlom/FetalGeo">FetalGeo</a> <sub>(1mo ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/Brilliancy_appointment_system">Brilliancy_appointment_system</a> <sub>(17h ago)</sub> · <a href="https://github.com/SamiulAlom/Daily_activity_track">Daily_activity_track</a> <sub>(1w ago)</sub> · <a href="https://github.com/SamiulAlom/FetalGeo">FetalGeo</a> <sub>(1mo ago)</sub></p>
 
 ## Featured projects
 
@@ -132,4 +132,4 @@
 | 1w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>29 Oct 2026, 22:43 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>30 Oct 2026, 05:44 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
