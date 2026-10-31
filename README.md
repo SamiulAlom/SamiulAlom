@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/Brilliancy_appointment_system">Brilliancy_appointment_system</a> <sub>(1d ago)</sub> · <a href="https://github.com/SamiulAlom/Daily_activity_track">Daily_activity_track</a> <sub>(1w ago)</sub> · <a href="https://github.com/SamiulAlom/FetalGeo">FetalGeo</a> <sub>(1mo ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/Brilliancy_appointment_system">Brilliancy_appointment_system</a> <sub>(2d ago)</sub> · <a href="https://github.com/SamiulAlom/Daily_activity_track">Daily_activity_track</a> <sub>(1w ago)</sub> · <a href="https://github.com/SamiulAlom/FetalGeo">FetalGeo</a> <sub>(1mo ago)</sub></p>
 
 ## Featured projects
 
@@ -124,12 +124,12 @@
 
 | When | What |
 |:--|:--|
-| 1d ago | Pushed to [Brilliancy_appointment_system](https://github.com/SamiulAlom/Brilliancy_appointment_system) |
-| 2d ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
+| 2d ago | Pushed to [Brilliancy_appointment_system](https://github.com/SamiulAlom/Brilliancy_appointment_system) |
+| 3d ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 | 5d ago | Open-sourced [Brilliancy_appointment_system](https://github.com/SamiulAlom/Brilliancy_appointment_system) |
 | 1w ago | Open-sourced [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
 | 1w ago | Starred [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
 | 1w ago | Starred [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>31 Oct 2026, 05:36 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>31 Oct 2026, 12:23 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
