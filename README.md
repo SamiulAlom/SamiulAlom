@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/Brilliancy_appointment_system">Brilliancy_appointment_system</a> <sub>(2d ago)</sub> · <a href="https://github.com/SamiulAlom/Daily_activity_track">Daily_activity_track</a> <sub>(1w ago)</sub> · <a href="https://github.com/SamiulAlom/FetalGeo">FetalGeo</a> <sub>(1mo ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/Daily_activity_track">Daily_activity_track</a> <sub>(1w ago)</sub> · <a href="https://github.com/SamiulAlom/FetalGeo">FetalGeo</a> <sub>(1mo ago)</sub> · <a href="https://github.com/SamiulAlom/Gastrointestinal">Gastrointestinal</a> <sub>(1mo ago)</sub></p>
 
 ## Featured projects
 
@@ -33,7 +33,6 @@
 <sub>Full-stack software, from farming assistants to booking platforms.</sub>
 
 <p>
-<a href="https://github.com/SamiulAlom/Brilliancy_appointment_system"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/projects/Brilliancy_appointment_system.svg"><img src="./assets/dark/projects/Brilliancy_appointment_system.svg" width="49%" alt="Brilliancy Appointments: React + TypeScript on Cloudflare Pages and Workers; Supabase Postgres with Google Calendar sync; Referral tracking and an admin portal"></picture></a>
 <a href="https://github.com/SamiulAlom/AgroAI_Project"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/projects/AgroAI_Project.svg"><img src="./assets/dark/projects/AgroAI_Project.svg" width="49%" alt="AgroAI Platform: Crop image disease detection and AI chatbot; Farmer community feed with moderation; Wallet and transaction tracking"></picture></a>
 <a href="https://github.com/SamiulAlom/agri_AI"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/projects/agri_AI.svg"><img src="./assets/dark/projects/agri_AI.svg" width="49%" alt="TomatoNet Assistant: ResNet50 tomato leaf disease detection; Gemini-powered farming chatbot; Upload-and-diagnose web interface"></picture></a>
 <a href="https://github.com/SamiulAlom/Daily_activity_track"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/projects/Daily_activity_track.svg"><img src="./assets/dark/projects/Daily_activity_track.svg" width="49%" alt="Daymark: Research log, IELTS prep and daily planning; Focus timer and reflection journal; Private: offline, no account, browser storage"></picture></a>
@@ -124,12 +123,12 @@
 
 | When | What |
 |:--|:--|
-| 2d ago | Pushed to [Brilliancy_appointment_system](https://github.com/SamiulAlom/Brilliancy_appointment_system) |
-| 3d ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
-| 6d ago | Open-sourced [Brilliancy_appointment_system](https://github.com/SamiulAlom/Brilliancy_appointment_system) |
+| 4d ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 | 1w ago | Open-sourced [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
 | 1w ago | Starred [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
 | 1w ago | Starred [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
+| 1w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
+| 1w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>01 Nov 2026, 05:59 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>01 Nov 2026, 13:18 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
