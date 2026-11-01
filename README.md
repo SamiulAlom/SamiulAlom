@@ -79,7 +79,7 @@
 | [my-app](https://github.com/SamiulAlom/my-app) | Early web-development practice | JavaScript | 0 | 3y ago |
 | [shopping-Card](https://github.com/SamiulAlom/shopping-Card) | Early web-development practice | HTML | 0 | 3y ago |
 | [Bank](https://github.com/SamiulAlom/Bank) | Early web-development practice | JavaScript | 0 | 3y ago |
-| [css_gird](https://github.com/SamiulAlom/css_gird) | Early web-development practice | HTML | 0 | 3y ago |
+| [css_gird](https://github.com/SamiulAlom/css_gird) | Early web-development practice | HTML | 0 | 4y ago |
 | [coffe_site](https://github.com/SamiulAlom/coffe_site) | Coffee shop landing page | HTML | 1 | 4y ago |
 | [Pasword_generator](https://github.com/SamiulAlom/Pasword_generator) | Random password generator | CSS | 2 | 4y ago |
 | [Class_Report_card](https://github.com/SamiulAlom/Class_Report_card) | Class report card generator | JavaScript | 1 | 4y ago |
@@ -131,4 +131,4 @@
 | 1w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>01 Nov 2026, 13:18 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>01 Nov 2026, 22:00 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
