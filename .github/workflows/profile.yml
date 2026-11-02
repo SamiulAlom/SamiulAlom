@@ -1,7 +1,7 @@
 name: Build dynamic profile
 on:
   schedule:
-    - cron: '17 */6 * * *'   # every 6 hours
+    - cron: '41 * * * *'   # every hour (GitHub delays/skips some scheduled runs, so run often)
   workflow_dispatch:
   push:
     branches: [main]
