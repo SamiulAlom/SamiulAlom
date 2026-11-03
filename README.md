@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/Daily_activity_track">Daily_activity_track</a> <sub>(1w ago)</sub> · <a href="https://github.com/SamiulAlom/FetalGeo">FetalGeo</a> <sub>(1mo ago)</sub> · <a href="https://github.com/SamiulAlom/Gastrointestinal">Gastrointestinal</a> <sub>(1mo ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/ecg-hybrid-text-anchored">ecg-hybrid-text-anchored</a> <sub>(3h ago)</sub> · <a href="https://github.com/SamiulAlom/Daily_activity_track">Daily_activity_track</a> <sub>(1w ago)</sub> · <a href="https://github.com/SamiulAlom/FetalGeo">FetalGeo</a> <sub>(1mo ago)</sub></p>
 
 ## Featured projects
 
@@ -39,10 +39,11 @@
 <a href="https://github.com/SamiulAlom/sust-bank-loan-project"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/projects/sust-bank-loan-project.svg"><img src="./assets/dark/projects/sust-bank-loan-project.svg" width="49%" alt="BankAI Assistant: GPT-4 chatbot for banking questions; React front end with Laravel back end; Built for the SUST hackathon"></picture></a>
 </p>
 
-<details><summary><b>All other repositories (57)</b> — auto-listed, newest first</summary>
+<details><summary><b>All other repositories (58)</b> — auto-listed, newest first</summary>
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
+| [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) | Hybrid text-anchored learning from heterogeneously annotated 12-lead ECG databases (code, run commands, results, paper sources) | Python | 0 | 3h ago |
 | [Ai_eng1](https://github.com/SamiulAlom/Ai_eng1) | Flask patient API with a database layer | Python | 0 | 3mo ago |
 | [Semantic-Sentence](https://github.com/SamiulAlom/Semantic-Sentence) | 3-class Bangla semantic sentence classification, 5-fold CV | Jupyter Notebook | 0 | 5mo ago |
 | [News-Classification](https://github.com/SamiulAlom/News-Classification) | Bangla news classification with multilingual BERT | Jupyter Notebook | 0 | 5mo ago |
@@ -123,12 +124,12 @@
 
 | When | What |
 |:--|:--|
+| 11h ago | Open-sourced [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) |
+| 1d ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 | 6d ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 | 1w ago | Open-sourced [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
 | 1w ago | Starred [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
 | 1w ago | Starred [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
-| 2w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
-| 2w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>03 Nov 2026, 12:21 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>03 Nov 2026, 19:47 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
