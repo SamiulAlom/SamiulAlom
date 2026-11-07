@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/eu-air-quality-2030-attainment">eu-air-quality-2030-attainment</a> <sub>(1d ago)</sub> · <a href="https://github.com/SamiulAlom/ecg-hybrid-text-anchored">ecg-hybrid-text-anchored</a> <sub>(3d ago)</sub> · <a href="https://github.com/SamiulAlom/Daily_activity_track">Daily_activity_track</a> <sub>(2w ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/ana-hep2-healthy-population-review">ana-hep2-healthy-population-review</a> <sub>(38m ago)</sub> · <a href="https://github.com/SamiulAlom/eu-air-quality-2030-attainment">eu-air-quality-2030-attainment</a> <sub>(1d ago)</sub> · <a href="https://github.com/SamiulAlom/ecg-hybrid-text-anchored">ecg-hybrid-text-anchored</a> <sub>(3d ago)</sub></p>
 
 ## Featured projects
 
@@ -39,10 +39,11 @@
 <a href="https://github.com/SamiulAlom/sust-bank-loan-project"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/projects/sust-bank-loan-project.svg"><img src="./assets/dark/projects/sust-bank-loan-project.svg" width="49%" alt="BankAI Assistant: GPT-4 chatbot for banking questions; React front end with Laravel back end; Built for the SUST hackathon"></picture></a>
 </p>
 
-<details><summary><b>All other repositories (59)</b> — auto-listed, newest first</summary>
+<details><summary><b>All other repositories (60)</b> — auto-listed, newest first</summary>
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
+| [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) | Code and derived data: systematic review of ANA positivity by HEp-2 IIF titre in healthy and general populations | Python | 0 | 38m ago |
 | [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) | Code and derived results: probability that EU-27 monitoring stations meet the 2030 air-quality limit values (PM2.5, PM10, NO2), with a rolling-origin hindcast test | Python | 0 | 1d ago |
 | [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) | Hybrid text-anchored learning from heterogeneously annotated 12-lead ECG databases (code, run commands, results, paper sources) | Python | 1 | 3d ago |
 | [Ai_eng1](https://github.com/SamiulAlom/Ai_eng1) | Flask patient API with a database layer | Python | 0 | 3mo ago |
@@ -126,11 +127,11 @@
 | When | What |
 |:--|:--|
 | 1d ago | Pushed to [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) |
-| 3d ago | Open-sourced [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) |
+| 4d ago | Open-sourced [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) |
 | 5d ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 | 1w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 | 2w ago | Open-sourced [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
 | 2w ago | Starred [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>07 Nov 2026, 07:46 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>07 Nov 2026, 15:07 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
