@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/ana-hep2-healthy-population-review">ana-hep2-healthy-population-review</a> <sub>(2d ago)</sub> · <a href="https://github.com/SamiulAlom/eu-air-quality-2030-attainment">eu-air-quality-2030-attainment</a> <sub>(4d ago)</sub> · <a href="https://github.com/SamiulAlom/ecg-hybrid-text-anchored">ecg-hybrid-text-anchored</a> <sub>(6d ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/ana-hep2-healthy-population-review">ana-hep2-healthy-population-review</a> <sub>(3d ago)</sub> · <a href="https://github.com/SamiulAlom/eu-air-quality-2030-attainment">eu-air-quality-2030-attainment</a> <sub>(4d ago)</sub> · <a href="https://github.com/SamiulAlom/ecg-hybrid-text-anchored">ecg-hybrid-text-anchored</a> <sub>(1w ago)</sub></p>
 
 ## Featured projects
 
@@ -43,9 +43,9 @@
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
-| [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) | Code and derived data: systematic review of ANA positivity by HEp-2 IIF titre in healthy and general populations | Python | 0 | 2d ago |
+| [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) | Code and derived data: systematic review of ANA positivity by HEp-2 IIF titre in healthy and general populations | Python | 0 | 3d ago |
 | [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) | Code and derived results: probability that EU-27 monitoring stations meet the 2030 air-quality limit values (PM2.5, PM10, NO2), with a rolling-origin hindcast test | Python | 0 | 4d ago |
-| [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) | Hybrid text-anchored learning from heterogeneously annotated 12-lead ECG databases (code, run commands, results, paper sources) | Python | 1 | 6d ago |
+| [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) | Hybrid text-anchored learning from heterogeneously annotated 12-lead ECG databases (code, run commands, results, paper sources) | Python | 1 | 1w ago |
 | [Ai_eng1](https://github.com/SamiulAlom/Ai_eng1) | Flask patient API with a database layer | Python | 0 | 3mo ago |
 | [Semantic-Sentence](https://github.com/SamiulAlom/Semantic-Sentence) | 3-class Bangla semantic sentence classification, 5-fold CV | Jupyter Notebook | 0 | 6mo ago |
 | [News-Classification](https://github.com/SamiulAlom/News-Classification) | Bangla news classification with multilingual BERT | Jupyter Notebook | 0 | 6mo ago |
@@ -126,7 +126,7 @@
 
 | When | What |
 |:--|:--|
-| 2d ago | Pushed to [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) |
+| 3d ago | Pushed to [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) |
 | 4d ago | Pushed to [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) |
 | 1w ago | Open-sourced [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) |
 | 1w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
@@ -134,4 +134,4 @@
 | 2w ago | Open-sourced [Daily_activity_track](https://github.com/SamiulAlom/Daily_activity_track) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>10 Nov 2026, 10:22 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>10 Nov 2026, 18:14 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
