@@ -55,7 +55,7 @@
 | [semantic](https://github.com/SamiulAlom/semantic) | Bangla semantic dataset and baseline notebook | Jupyter Notebook | 0 | 1y ago |
 | [Student-Depression-Detection-Dataset](https://github.com/SamiulAlom/Student-Depression-Detection-Dataset) | Student depression detection dataset | — | 0 | 1y ago |
 | [Library-management](https://github.com/SamiulAlom/Library-management) | C# .NET library management API | C# | 0 | 1y ago |
-| [depression](https://github.com/SamiulAlom/depression) | Depression detection experiments | Jupyter Notebook | 0 | 1y ago |
+| [depression](https://github.com/SamiulAlom/depression) | Depression detection experiments | Jupyter Notebook | 0 | 2y ago |
 | [fetal-health](https://github.com/SamiulAlom/fetal-health) | Fetal health classification: ANN, AdaBoost, GB, KNN, SVM | Jupyter Notebook | 0 | 2y ago |
 | [sleep-disorder](https://github.com/SamiulAlom/sleep-disorder) | Sleep disorder diagnosis with an ANN ensemble | Jupyter Notebook | 0 | 2y ago |
 | [DenguePredictionDeep](https://github.com/SamiulAlom/DenguePredictionDeep) | Dengue prediction: ANN, CNN, RF, SVM, KNN, logistic regression | Jupyter Notebook | 0 | 2y ago |
@@ -135,4 +135,4 @@
 | 2w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>13 Nov 2026, 17:22 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>13 Nov 2026, 22:51 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
