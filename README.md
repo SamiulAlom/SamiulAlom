@@ -46,7 +46,7 @@
 | [heatwave-run-scan-fmci](https://github.com/SamiulAlom/heatwave-run-scan-fmci) | Exact distributions of heatwave run and scan indices under a trending Markov chain: code and derived results | Python | 0 | 5d ago |
 | [eu-weee-srm-mfa](https://github.com/SamiulAlom/eu-weee-srm-mfa) | Code and derived results: strategic raw materials in EU WEEE, 2018-2024 | Python | 0 | 1w ago |
 | [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) | Code and derived data: systematic review of ANA positivity by HEp-2 IIF titre in healthy and general populations | Python | 0 | 1w ago |
-| [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) | Code and derived results: probability that EU-27 monitoring stations meet the 2030 air-quality limit values (PM2.5, PM10, NO2), with a rolling-origin hindcast test | Python | 0 | 1w ago |
+| [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) | Code and derived results: probability that EU-27 monitoring stations meet the 2030 air-quality limit values (PM2.5, PM10, NO2), with a rolling-origin hindcast test | Python | 0 | 2w ago |
 | [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) | Hybrid text-anchored learning from heterogeneously annotated 12-lead ECG databases (code, run commands, results, paper sources) | Python | 1 | 2w ago |
 | [Ai_eng1](https://github.com/SamiulAlom/Ai_eng1) | Flask patient API with a database layer | Python | 0 | 3mo ago |
 | [Semantic-Sentence](https://github.com/SamiulAlom/Semantic-Sentence) | 3-class Bangla semantic sentence classification, 5-fold CV | Jupyter Notebook | 0 | 6mo ago |
@@ -130,10 +130,10 @@
 |:--|:--|
 | 1w ago | Pushed to [eu-weee-srm-mfa](https://github.com/SamiulAlom/eu-weee-srm-mfa) |
 | 1w ago | Pushed to [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) |
-| 1w ago | Pushed to [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) |
+| 2w ago | Pushed to [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) |
 | 2w ago | Open-sourced [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) |
 | 2w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 | 3w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>20 Nov 2026, 00:56 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>20 Nov 2026, 09:10 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
