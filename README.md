@@ -1,10 +1,10 @@
 <a href="https://github.com/SamiulAlom"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/hero.svg"><img src="./assets/dark/hero.svg" width="100%" alt="Md. Samiul Alom — AI Researcher, Medical AI · NLP · Computer Vision, Software Builder"></picture></a>
 
-<p align="center"><a href="https://www.linkedin.com/in/samiul-alom-087124227/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://scholar.google.com/citations?user=aulykMwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a> <a href="mailto:samiulalom090@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/SamiulAlom?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a></p>
+<p align="center"><a href="https://samiulalom.github.io/"><img src="https://img.shields.io/badge/Website-E8A33D?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"></a> <a href="https://www.linkedin.com/in/samiul-alom-087124227/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://scholar.google.com/citations?user=aulykMwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a> <a href="mailto:samiulalom090@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://github.com/SamiulAlom?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"></a></p>
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/skin-prn-peer-residual-tbp">skin-prn-peer-residual-tbp</a> <sub>(6h ago)</sub> · <a href="https://github.com/SamiulAlom/heatwave-run-scan-fmci">heatwave-run-scan-fmci</a> <sub>(6d ago)</sub> · <a href="https://github.com/SamiulAlom/eu-weee-srm-mfa">eu-weee-srm-mfa</a> <sub>(1w ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/agri_AI">agri_AI</a> <sub>(2m ago)</sub> · <a href="https://github.com/SamiulAlom/old-github-io">old-github-io</a> <sub>(1h ago)</sub> · <a href="https://github.com/SamiulAlom/skin-prn-peer-residual-tbp">skin-prn-peer-residual-tbp</a> <sub>(11h ago)</sub></p>
 
 ## Featured projects
 
@@ -39,12 +39,13 @@
 <a href="https://github.com/SamiulAlom/sust-bank-loan-project"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/projects/sust-bank-loan-project.svg"><img src="./assets/dark/projects/sust-bank-loan-project.svg" width="49%" alt="BankAI Assistant: GPT-4 chatbot for banking questions; React front end with Laravel back end; Built for the SUST hackathon"></picture></a>
 </p>
 
-<details><summary><b>All other repositories (63)</b> — auto-listed, newest first</summary>
+<details><summary><b>All other repositories (64)</b> — auto-listed, newest first</summary>
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
-| [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) | Jupyter Notebook project | Jupyter Notebook | 0 | 6h ago |
-| [heatwave-run-scan-fmci](https://github.com/SamiulAlom/heatwave-run-scan-fmci) | Exact distributions of heatwave run and scan indices under a trending Markov chain: code and derived results | Python | 0 | 6d ago |
+| [old-github-io](https://github.com/SamiulAlom/old-github-io) | Repository | — | 0 | 1h ago |
+| [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) | Jupyter Notebook project | Jupyter Notebook | 0 | 11h ago |
+| [heatwave-run-scan-fmci](https://github.com/SamiulAlom/heatwave-run-scan-fmci) | Exact distributions of heatwave run and scan indices under a trending Markov chain: code and derived results | Python | 0 | 1w ago |
 | [eu-weee-srm-mfa](https://github.com/SamiulAlom/eu-weee-srm-mfa) | Code and derived results: strategic raw materials in EU WEEE, 2018-2024 | Python | 0 | 1w ago |
 | [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) | Code and derived data: systematic review of ANA positivity by HEp-2 IIF titre in healthy and general populations | Python | 0 | 2w ago |
 | [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) | Code and derived results: probability that EU-27 monitoring stations meet the 2030 air-quality limit values (PM2.5, PM10, NO2), with a rolling-origin hindcast test | Python | 0 | 2w ago |
@@ -137,4 +138,4 @@
 | 3w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>21 Nov 2026, 15:38 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>21 Nov 2026, 20:44 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
