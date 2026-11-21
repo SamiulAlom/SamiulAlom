@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/skin-prn-peer-residual-tbp">skin-prn-peer-residual-tbp</a> <sub>(11m ago)</sub> · <a href="https://github.com/SamiulAlom/heatwave-run-scan-fmci">heatwave-run-scan-fmci</a> <sub>(6d ago)</sub> · <a href="https://github.com/SamiulAlom/eu-weee-srm-mfa">eu-weee-srm-mfa</a> <sub>(1w ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/skin-prn-peer-residual-tbp">skin-prn-peer-residual-tbp</a> <sub>(4h ago)</sub> · <a href="https://github.com/SamiulAlom/heatwave-run-scan-fmci">heatwave-run-scan-fmci</a> <sub>(6d ago)</sub> · <a href="https://github.com/SamiulAlom/eu-weee-srm-mfa">eu-weee-srm-mfa</a> <sub>(1w ago)</sub></p>
 
 ## Featured projects
 
@@ -43,7 +43,7 @@
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
-| [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) | Jupyter Notebook project | Jupyter Notebook | 0 | 11m ago |
+| [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) | Jupyter Notebook project | Jupyter Notebook | 0 | 4h ago |
 | [heatwave-run-scan-fmci](https://github.com/SamiulAlom/heatwave-run-scan-fmci) | Exact distributions of heatwave run and scan indices under a trending Markov chain: code and derived results | Python | 0 | 6d ago |
 | [eu-weee-srm-mfa](https://github.com/SamiulAlom/eu-weee-srm-mfa) | Code and derived results: strategic raw materials in EU WEEE, 2018-2024 | Python | 0 | 1w ago |
 | [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) | Code and derived data: systematic review of ANA positivity by HEp-2 IIF titre in healthy and general populations | Python | 0 | 1w ago |
@@ -137,4 +137,4 @@
 | 3w ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>21 Nov 2026, 00:12 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>21 Nov 2026, 07:41 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
