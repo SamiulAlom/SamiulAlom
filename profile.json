@@ -4,6 +4,7 @@
   "roles": ["AI Researcher", "Medical AI · NLP · Computer Vision", "Software Builder"],
   "intro": "I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.",
   "links": [
+    {"label": "Website", "url": "https://samiulalom.github.io/", "logo": "githubpages", "color": "E8A33D"},
     {"label": "LinkedIn", "url": "https://www.linkedin.com/in/samiul-alom-087124227/", "logo": "linkedin", "color": "0A66C2"},
     {"label": "Google Scholar", "url": "https://scholar.google.com/citations?user=aulykMwAAAAJ&hl=en", "logo": "googlescholar", "color": "4285F4"},
     {"label": "Email", "url": "mailto:samiulalom090@gmail.com", "logo": "gmail", "color": "D14836"},
