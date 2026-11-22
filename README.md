@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/agri_AI">agri_AI</a> <sub>(4h ago)</sub> · <a href="https://github.com/SamiulAlom/old-github-io">old-github-io</a> <sub>(6h ago)</sub> · <a href="https://github.com/SamiulAlom/skin-prn-peer-residual-tbp">skin-prn-peer-residual-tbp</a> <sub>(16h ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/agri_AI">agri_AI</a> <sub>(12h ago)</sub> · <a href="https://github.com/SamiulAlom/old-github-io">old-github-io</a> <sub>(13h ago)</sub> · <a href="https://github.com/SamiulAlom/skin-prn-peer-residual-tbp">skin-prn-peer-residual-tbp</a> <sub>(23h ago)</sub></p>
 
 ## Featured projects
 
@@ -43,8 +43,8 @@
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
-| [old-github-io](https://github.com/SamiulAlom/old-github-io) | Repository | — | 0 | 6h ago |
-| [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) | Jupyter Notebook project | Jupyter Notebook | 0 | 16h ago |
+| [old-github-io](https://github.com/SamiulAlom/old-github-io) | Repository | — | 0 | 13h ago |
+| [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) | Jupyter Notebook project | Jupyter Notebook | 0 | 23h ago |
 | [heatwave-run-scan-fmci](https://github.com/SamiulAlom/heatwave-run-scan-fmci) | Exact distributions of heatwave run and scan indices under a trending Markov chain: code and derived results | Python | 0 | 1w ago |
 | [eu-weee-srm-mfa](https://github.com/SamiulAlom/eu-weee-srm-mfa) | Code and derived results: strategic raw materials in EU WEEE, 2018-2024 | Python | 0 | 1w ago |
 | [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) | Code and derived data: systematic review of ANA positivity by HEp-2 IIF titre in healthy and general populations | Python | 0 | 2w ago |
@@ -130,12 +130,12 @@
 
 | When | What |
 |:--|:--|
-| 1h ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
-| 5h ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
+| 1d ago | Pushed to [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) |
+| 8h ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
+| 12h ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
 | 1w ago | Pushed to [eu-weee-srm-mfa](https://github.com/SamiulAlom/eu-weee-srm-mfa) |
 | 2w ago | Pushed to [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) |
 | 2w ago | Pushed to [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) |
-| 2w ago | Open-sourced [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>22 Nov 2026, 01:33 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>22 Nov 2026, 08:49 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
