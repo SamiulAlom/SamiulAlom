@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/agri_AI">agri_AI</a> <sub>(1d ago)</sub> · <a href="https://github.com/SamiulAlom/old-github-io">old-github-io</a> <sub>(1d ago)</sub> · <a href="https://github.com/SamiulAlom/skin-prn-peer-residual-tbp">skin-prn-peer-residual-tbp</a> <sub>(2d ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/agri_AI">agri_AI</a> <sub>(2d ago)</sub> · <a href="https://github.com/SamiulAlom/old-github-io">old-github-io</a> <sub>(2d ago)</sub> · <a href="https://github.com/SamiulAlom/skin-prn-peer-residual-tbp">skin-prn-peer-residual-tbp</a> <sub>(2d ago)</sub></p>
 
 ## Featured projects
 
@@ -43,7 +43,7 @@
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
-| [old-github-io](https://github.com/SamiulAlom/old-github-io) | Repository | — | 0 | 1d ago |
+| [old-github-io](https://github.com/SamiulAlom/old-github-io) | Repository | — | 0 | 2d ago |
 | [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) | Jupyter Notebook project | Jupyter Notebook | 0 | 2d ago |
 | [heatwave-run-scan-fmci](https://github.com/SamiulAlom/heatwave-run-scan-fmci) | Exact distributions of heatwave run and scan indices under a trending Markov chain: code and derived results | Python | 0 | 1w ago |
 | [eu-weee-srm-mfa](https://github.com/SamiulAlom/eu-weee-srm-mfa) | Code and derived results: strategic raw materials in EU WEEE, 2018-2024 | Python | 0 | 1w ago |
@@ -130,12 +130,12 @@
 
 | When | What |
 |:--|:--|
+| 20h ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
+| 2d ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
+| 2d ago | Pushed to [agri_AI](https://github.com/SamiulAlom/agri_AI) |
 | 1d ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
-| 9h ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
-| 1d ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
-| 1d ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
-| 1d ago | Pushed to [old-github-io](https://github.com/SamiulAlom/old-github-io) |
-| 2d ago | Pushed to [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) |
+| 2d ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
+| 2d ago | Pushed to [old-github-io](https://github.com/SamiulAlom/old-github-io) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>23 Nov 2026, 15:21 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>24 Nov 2026, 02:34 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
