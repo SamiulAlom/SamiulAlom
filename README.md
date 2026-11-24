@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/q4-nir-tablet-update">q4-nir-tablet-update</a> <sub>(6m ago)</sub> · <a href="https://github.com/SamiulAlom/q3-crop-shortcut">q3-crop-shortcut</a> <sub>(9m ago)</sub> · <a href="https://github.com/SamiulAlom/q6-flood-unet-index">q6-flood-unet-index</a> <sub>(12m ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/q4-nir-tablet-update">q4-nir-tablet-update</a> <sub>(10h ago)</sub> · <a href="https://github.com/SamiulAlom/q3-crop-shortcut">q3-crop-shortcut</a> <sub>(10h ago)</sub> · <a href="https://github.com/SamiulAlom/q6-flood-unet-index">q6-flood-unet-index</a> <sub>(10h ago)</sub></p>
 
 ## Featured projects
 
@@ -43,17 +43,17 @@
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
-| [q4-nir-tablet-update](https://github.com/SamiulAlom/q4-nir-tablet-update) | Analysis code and outputs | Python | 0 | 6m ago |
-| [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) | Analysis code and outputs | Python | 0 | 9m ago |
-| [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) | Python project | Python | 0 | 12m ago |
-| [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) | Analysis code and outputs | Jupyter Notebook | 0 | 13m ago |
-| [old-github-io](https://github.com/SamiulAlom/old-github-io) | Repository | — | 0 | 2d ago |
+| [q4-nir-tablet-update](https://github.com/SamiulAlom/q4-nir-tablet-update) | Analysis code and outputs | Python | 0 | 10h ago |
+| [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) | Analysis code and outputs | Python | 0 | 10h ago |
+| [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) | Python project | Python | 0 | 10h ago |
+| [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) | Analysis code and outputs | Jupyter Notebook | 0 | 10h ago |
+| [old-github-io](https://github.com/SamiulAlom/old-github-io) | Repository | — | 0 | 3d ago |
 | [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) | Jupyter Notebook project | Jupyter Notebook | 0 | 3d ago |
 | [heatwave-run-scan-fmci](https://github.com/SamiulAlom/heatwave-run-scan-fmci) | Exact distributions of heatwave run and scan indices under a trending Markov chain: code and derived results | Python | 0 | 1w ago |
 | [eu-weee-srm-mfa](https://github.com/SamiulAlom/eu-weee-srm-mfa) | Code and derived results: strategic raw materials in EU WEEE, 2018-2024 | Python | 0 | 1w ago |
 | [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) | Code and derived data: systematic review of ANA positivity by HEp-2 IIF titre in healthy and general populations | Python | 0 | 2w ago |
 | [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) | Code and derived results: probability that EU-27 monitoring stations meet the 2030 air-quality limit values (PM2.5, PM10, NO2), with a rolling-origin hindcast test | Python | 0 | 2w ago |
-| [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) | Hybrid text-anchored learning from heterogeneously annotated 12-lead ECG databases (code, run commands, results, paper sources) | Python | 1 | 2w ago |
+| [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) | Hybrid text-anchored learning from heterogeneously annotated 12-lead ECG databases (code, run commands, results, paper sources) | Python | 1 | 3w ago |
 | [Ai_eng1](https://github.com/SamiulAlom/Ai_eng1) | Flask patient API with a database layer | Python | 0 | 3mo ago |
 | [Semantic-Sentence](https://github.com/SamiulAlom/Semantic-Sentence) | 3-class Bangla semantic sentence classification, 5-fold CV | Jupyter Notebook | 0 | 6mo ago |
 | [News-Classification](https://github.com/SamiulAlom/News-Classification) | Bangla news classification with multilingual BERT | Jupyter Notebook | 0 | 6mo ago |
@@ -134,12 +134,12 @@
 
 | When | What |
 |:--|:--|
+| 10h ago | Pushed to [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) |
+| 12h ago | Pushed to [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) |
+| 12h ago | Pushed to [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) |
 | 1d ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
-| 2d ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
-| 2d ago | Pushed to [agri_AI](https://github.com/SamiulAlom/agri_AI) |
-| 2d ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
-| 2d ago | Pushed to [SamiulAlom](https://github.com/SamiulAlom/SamiulAlom) |
-| 2d ago | Pushed to [old-github-io](https://github.com/SamiulAlom/old-github-io) |
+| 3d ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
+| 3d ago | Pushed to [agri_AI](https://github.com/SamiulAlom/agri_AI) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>24 Nov 2026, 12:56 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>24 Nov 2026, 23:16 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
