@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/q4-nir-tablet-update">q4-nir-tablet-update</a> <sub>(10h ago)</sub> · <a href="https://github.com/SamiulAlom/q3-crop-shortcut">q3-crop-shortcut</a> <sub>(10h ago)</sub> · <a href="https://github.com/SamiulAlom/q6-flood-unet-index">q6-flood-unet-index</a> <sub>(10h ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/q2-leukaemia-calibration">q2-leukaemia-calibration</a> <sub>(just now)</sub> · <a href="https://github.com/SamiulAlom/q6-flood-unet-index">q6-flood-unet-index</a> <sub>(26m ago)</sub> · <a href="https://github.com/SamiulAlom/q4-nir-tablet-update">q4-nir-tablet-update</a> <sub>(27m ago)</sub></p>
 
 ## Featured projects
 
@@ -39,18 +39,19 @@
 <a href="https://github.com/SamiulAlom/sust-bank-loan-project"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/light/projects/sust-bank-loan-project.svg"><img src="./assets/dark/projects/sust-bank-loan-project.svg" width="49%" alt="BankAI Assistant: GPT-4 chatbot for banking questions; React front end with Laravel back end; Built for the SUST hackathon"></picture></a>
 </p>
 
-<details><summary><b>All other repositories (68)</b> — auto-listed, newest first</summary>
+<details><summary><b>All other repositories (69)</b> — auto-listed, newest first</summary>
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
-| [q4-nir-tablet-update](https://github.com/SamiulAlom/q4-nir-tablet-update) | Analysis code and outputs | Python | 0 | 10h ago |
-| [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) | Analysis code and outputs | Python | 0 | 10h ago |
-| [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) | Python project | Python | 0 | 10h ago |
-| [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) | Analysis code and outputs | Jupyter Notebook | 0 | 10h ago |
+| [q2-leukaemia-calibration](https://github.com/SamiulAlom/q2-leukaemia-calibration) | Analysis code and outputs: calibration of leukaemia-cell classifiers under dataset shift (C-NMC 2019) | — | 0 | just now |
+| [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) | Python project | Python | 0 | 26m ago |
+| [q4-nir-tablet-update](https://github.com/SamiulAlom/q4-nir-tablet-update) | Analysis code and outputs | Python | 0 | 27m ago |
+| [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) | Analysis code and outputs | Python | 0 | 27m ago |
+| [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) | Analysis code and outputs | Jupyter Notebook | 0 | 27m ago |
 | [old-github-io](https://github.com/SamiulAlom/old-github-io) | Repository | — | 0 | 3d ago |
 | [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) | Jupyter Notebook project | Jupyter Notebook | 0 | 3d ago |
 | [heatwave-run-scan-fmci](https://github.com/SamiulAlom/heatwave-run-scan-fmci) | Exact distributions of heatwave run and scan indices under a trending Markov chain: code and derived results | Python | 0 | 1w ago |
-| [eu-weee-srm-mfa](https://github.com/SamiulAlom/eu-weee-srm-mfa) | Code and derived results: strategic raw materials in EU WEEE, 2018-2024 | Python | 0 | 1w ago |
+| [eu-weee-srm-mfa](https://github.com/SamiulAlom/eu-weee-srm-mfa) | Code and derived results: strategic raw materials in EU WEEE, 2018-2024 | Python | 0 | 2w ago |
 | [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) | Code and derived data: systematic review of ANA positivity by HEp-2 IIF titre in healthy and general populations | Python | 0 | 2w ago |
 | [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) | Code and derived results: probability that EU-27 monitoring stations meet the 2030 air-quality limit values (PM2.5, PM10, NO2), with a rolling-origin hindcast test | Python | 0 | 2w ago |
 | [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) | Hybrid text-anchored learning from heterogeneously annotated 12-lead ECG databases (code, run commands, results, paper sources) | Python | 1 | 3w ago |
@@ -134,12 +135,12 @@
 
 | When | What |
 |:--|:--|
-| 10h ago | Pushed to [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) |
-| 12h ago | Pushed to [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) |
-| 12h ago | Pushed to [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) |
-| 1d ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
+| 17h ago | Pushed to [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) |
+| 18h ago | Pushed to [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) |
+| 18h ago | Pushed to [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) |
+| 2d ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
 | 3d ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
 | 3d ago | Pushed to [agri_AI](https://github.com/SamiulAlom/agri_AI) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>24 Nov 2026, 23:16 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>25 Nov 2026, 05:40 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
