@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/q5-refractive-index-families">q5-refractive-index-families</a> <sub>(13h ago)</sub> · <a href="https://github.com/SamiulAlom/q2-leukaemia-calibration">q2-leukaemia-calibration</a> <sub>(18h ago)</sub> · <a href="https://github.com/SamiulAlom/q6-flood-unet-index">q6-flood-unet-index</a> <sub>(19h ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/q5-refractive-index-families">q5-refractive-index-families</a> <sub>(22h ago)</sub> · <a href="https://github.com/SamiulAlom/q2-leukaemia-calibration">q2-leukaemia-calibration</a> <sub>(1d ago)</sub> · <a href="https://github.com/SamiulAlom/q6-flood-unet-index">q6-flood-unet-index</a> <sub>(1d ago)</sub></p>
 
 ## Featured projects
 
@@ -43,12 +43,12 @@
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
-| [q5-refractive-index-families](https://github.com/SamiulAlom/q5-refractive-index-families) | Python project | Python | 0 | 13h ago |
-| [q2-leukaemia-calibration](https://github.com/SamiulAlom/q2-leukaemia-calibration) | Analysis code and outputs: calibration of leukaemia-cell classifiers under dataset shift (C-NMC 2019) | Python | 0 | 18h ago |
-| [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) | Python project | Python | 0 | 19h ago |
-| [q4-nir-tablet-update](https://github.com/SamiulAlom/q4-nir-tablet-update) | Analysis code and outputs | Python | 0 | 19h ago |
-| [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) | Analysis code and outputs | Python | 0 | 19h ago |
-| [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) | Analysis code and outputs | Jupyter Notebook | 0 | 19h ago |
+| [q5-refractive-index-families](https://github.com/SamiulAlom/q5-refractive-index-families) | Python project | Python | 0 | 22h ago |
+| [q2-leukaemia-calibration](https://github.com/SamiulAlom/q2-leukaemia-calibration) | Analysis code and outputs: calibration of leukaemia-cell classifiers under dataset shift (C-NMC 2019) | Python | 0 | 1d ago |
+| [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) | Python project | Python | 0 | 1d ago |
+| [q4-nir-tablet-update](https://github.com/SamiulAlom/q4-nir-tablet-update) | Analysis code and outputs | Python | 0 | 1d ago |
+| [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) | Analysis code and outputs | Python | 0 | 1d ago |
+| [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) | Analysis code and outputs | Jupyter Notebook | 0 | 1d ago |
 | [old-github-io](https://github.com/SamiulAlom/old-github-io) | Repository | — | 0 | 4d ago |
 | [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) | Jupyter Notebook project | Jupyter Notebook | 0 | 4d ago |
 | [heatwave-run-scan-fmci](https://github.com/SamiulAlom/heatwave-run-scan-fmci) | Exact distributions of heatwave run and scan indices under a trending Markov chain: code and derived results | Python | 0 | 1w ago |
@@ -136,12 +136,12 @@
 
 | When | What |
 |:--|:--|
-| 19h ago | Pushed to [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) |
-| 1d ago | Pushed to [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) |
-| 1d ago | Pushed to [q4-nir-tablet-update](https://github.com/SamiulAlom/q4-nir-tablet-update) |
 | 1d ago | Pushed to [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) |
 | 1d ago | Pushed to [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) |
-| 2d ago | Pushed to [SamiulAlom.github.io](https://github.com/SamiulAlom/SamiulAlom.github.io) |
+| 1d ago | Pushed to [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) |
+| 1d ago | Pushed to [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) |
+| 1d ago | Pushed to [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) |
+| 1d ago | Pushed to [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>26 Nov 2026, 00:39 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>26 Nov 2026, 08:54 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
