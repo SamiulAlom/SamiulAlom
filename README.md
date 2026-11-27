@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/public-domain-day-editions">public-domain-day-editions</a> <sub>(7h ago)</sub> · <a href="https://github.com/SamiulAlom/q5-refractive-index-families">q5-refractive-index-families</a> <sub>(2d ago)</sub> · <a href="https://github.com/SamiulAlom/q2-leukaemia-calibration">q2-leukaemia-calibration</a> <sub>(2d ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/public-domain-day-editions">public-domain-day-editions</a> <sub>(16h ago)</sub> · <a href="https://github.com/SamiulAlom/q5-refractive-index-families">q5-refractive-index-families</a> <sub>(2d ago)</sub> · <a href="https://github.com/SamiulAlom/q2-leukaemia-calibration">q2-leukaemia-calibration</a> <sub>(2d ago)</sub></p>
 
 ## Featured projects
 
@@ -43,21 +43,21 @@
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
-| [public-domain-day-editions](https://github.com/SamiulAlom/public-domain-day-editions) | Analysis code and outputs: new editions, publishers and free digital copies after US Public Domain Days, 2019-2025 | Jupyter Notebook | 0 | 7h ago |
+| [public-domain-day-editions](https://github.com/SamiulAlom/public-domain-day-editions) | Analysis code and outputs: new editions, publishers and free digital copies after US Public Domain Days, 2019-2025 | Jupyter Notebook | 0 | 16h ago |
 | [q5-refractive-index-families](https://github.com/SamiulAlom/q5-refractive-index-families) | Python project | Python | 0 | 2d ago |
 | [q2-leukaemia-calibration](https://github.com/SamiulAlom/q2-leukaemia-calibration) | Analysis code and outputs: calibration of leukaemia-cell classifiers under dataset shift (C-NMC 2019) | Python | 0 | 2d ago |
 | [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) | Python project | Python | 0 | 2d ago |
 | [q4-nir-tablet-update](https://github.com/SamiulAlom/q4-nir-tablet-update) | Analysis code and outputs | Python | 0 | 2d ago |
 | [q3-crop-shortcut](https://github.com/SamiulAlom/q3-crop-shortcut) | Analysis code and outputs | Python | 0 | 2d ago |
 | [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) | Analysis code and outputs | Jupyter Notebook | 0 | 2d ago |
-| [old-github-io](https://github.com/SamiulAlom/old-github-io) | Repository | — | 0 | 5d ago |
+| [old-github-io](https://github.com/SamiulAlom/old-github-io) | Repository | — | 0 | 6d ago |
 | [skin-prn-peer-residual-tbp](https://github.com/SamiulAlom/skin-prn-peer-residual-tbp) | Jupyter Notebook project | Jupyter Notebook | 0 | 6d ago |
 | [heatwave-run-scan-fmci](https://github.com/SamiulAlom/heatwave-run-scan-fmci) | Exact distributions of heatwave run and scan indices under a trending Markov chain: code and derived results | Python | 0 | 1w ago |
 | [eu-weee-srm-mfa](https://github.com/SamiulAlom/eu-weee-srm-mfa) | Code and derived results: strategic raw materials in EU WEEE, 2018-2024 | Python | 0 | 2w ago |
 | [ana-hep2-healthy-population-review](https://github.com/SamiulAlom/ana-hep2-healthy-population-review) | Code and derived data: systematic review of ANA positivity by HEp-2 IIF titre in healthy and general populations | Python | 0 | 2w ago |
 | [eu-air-quality-2030-attainment](https://github.com/SamiulAlom/eu-air-quality-2030-attainment) | Code and derived results: probability that EU-27 monitoring stations meet the 2030 air-quality limit values (PM2.5, PM10, NO2), with a rolling-origin hindcast test | Python | 0 | 3w ago |
 | [ecg-hybrid-text-anchored](https://github.com/SamiulAlom/ecg-hybrid-text-anchored) | Hybrid text-anchored learning from heterogeneously annotated 12-lead ECG databases (code, run commands, results, paper sources) | Python | 1 | 3w ago |
-| [Ai_eng1](https://github.com/SamiulAlom/Ai_eng1) | Flask patient API with a database layer | Python | 0 | 3mo ago |
+| [Ai_eng1](https://github.com/SamiulAlom/Ai_eng1) | Flask patient API with a database layer | Python | 0 | 4mo ago |
 | [Semantic-Sentence](https://github.com/SamiulAlom/Semantic-Sentence) | 3-class Bangla semantic sentence classification, 5-fold CV | Jupyter Notebook | 0 | 6mo ago |
 | [News-Classification](https://github.com/SamiulAlom/News-Classification) | Bangla news classification with multilingual BERT | Jupyter Notebook | 0 | 6mo ago |
 | [Liver-Disease-Prediction-](https://github.com/SamiulAlom/Liver-Disease-Prediction-) | Liver disease prediction with a tuned XGBoost voting ensemble | Jupyter Notebook | 0 | 6mo ago |
@@ -142,7 +142,7 @@
 | 2d ago | Pushed to [q4-nir-tablet-update](https://github.com/SamiulAlom/q4-nir-tablet-update) |
 | 2d ago | Pushed to [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) |
 | 2d ago | Pushed to [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) |
-| 2d ago | Pushed to [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) |
+| 3d ago | Pushed to [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>27 Nov 2026, 11:24 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>27 Nov 2026, 20:18 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
