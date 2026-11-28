@@ -4,7 +4,7 @@
 
 <p align="center">I build trustworthy AI for healthcare and practical web apps — models that are calibrated, explainable and honest about uncertainty, and software that people actually use.</p>
 
-<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/public-domain-day-editions">public-domain-day-editions</a> <sub>(16h ago)</sub> · <a href="https://github.com/SamiulAlom/q5-refractive-index-families">q5-refractive-index-families</a> <sub>(2d ago)</sub> · <a href="https://github.com/SamiulAlom/q2-leukaemia-calibration">q2-leukaemia-calibration</a> <sub>(2d ago)</sub></p>
+<p align="center"><b>Working on now:</b> <a href="https://github.com/SamiulAlom/public-domain-day-editions">public-domain-day-editions</a> <sub>(22h ago)</sub> · <a href="https://github.com/SamiulAlom/q5-refractive-index-families">q5-refractive-index-families</a> <sub>(2d ago)</sub> · <a href="https://github.com/SamiulAlom/q2-leukaemia-calibration">q2-leukaemia-calibration</a> <sub>(2d ago)</sub></p>
 
 ## Featured projects
 
@@ -43,7 +43,7 @@
 
 | Repository | What it is | Language | ★ | Updated |
 |:--|:--|:--|:-:|:--|
-| [public-domain-day-editions](https://github.com/SamiulAlom/public-domain-day-editions) | Analysis code and outputs: new editions, publishers and free digital copies after US Public Domain Days, 2019-2025 | Jupyter Notebook | 0 | 16h ago |
+| [public-domain-day-editions](https://github.com/SamiulAlom/public-domain-day-editions) | Analysis code and outputs: new editions, publishers and free digital copies after US Public Domain Days, 2019-2025 | Jupyter Notebook | 0 | 22h ago |
 | [q5-refractive-index-families](https://github.com/SamiulAlom/q5-refractive-index-families) | Python project | Python | 0 | 2d ago |
 | [q2-leukaemia-calibration](https://github.com/SamiulAlom/q2-leukaemia-calibration) | Analysis code and outputs: calibration of leukaemia-cell classifiers under dataset shift (C-NMC 2019) | Python | 0 | 2d ago |
 | [q6-flood-unet-index](https://github.com/SamiulAlom/q6-flood-unet-index) | Python project | Python | 0 | 2d ago |
@@ -145,4 +145,4 @@
 | 3d ago | Pushed to [q1-oct-saliency](https://github.com/SamiulAlom/q1-oct-saliency) |
 
 ---
-<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>27 Nov 2026, 20:18 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
+<sub>This profile rebuilds itself every 6 hours from the GitHub API — last run <b>28 Nov 2026, 02:57 UTC</b>. Project names and features live in <a href="./profile.json">profile.json</a>; everything else is automatic. <a href="https://github.com/SamiulAlom/SamiulAlom/actions/workflows/profile.yml">Workflow ↗</a></sub>
